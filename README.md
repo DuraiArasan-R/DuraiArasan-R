@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @DuraiArasan-R
-- 👀 I’m interested in Coading
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Java Developers
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm DuraiArasan! 
 
-<!---
-DuraiArasan-R/DuraiArasan-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Software Test Engineer with over 6 years of experience in **manual** and **automation testing**. I specialize in building robust test frameworks and ensuring high-quality software through detailed planning, execution, and automation.
+
+## 🚀 Skills & Tools
+- **Testing**: Manual Testing, Automation Testing, Regression, Smoke, Sanity
+- **Automation**: Selenium WebDriver, TestNG, JUnit, Maven, POM framework
+- **Languages**: Java, Python (basic)
+- **Bug Tracking**: JIRA, Bugzilla
+- **CI/CD**: Jenkins, GitHub Actions
+- **Others**: Postman (API Testing), SQL, Agile/Scrum
+
+## 📚 Currently Learning
+- Microsoft Dynamics CRM (from scratch to advanced)
+- API Automation with Rest Assured
+- Preparing for **ISTQB Foundation Level** certification
+
+## 💡 Projects
+I’m working on automating test scenarios for:
+- E-commerce websites (Selenium with Java)
